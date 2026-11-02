@@ -1,0 +1,9 @@
+{
+  "versione": "1.2",
+  "data": "02/11/2026",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
+  "note": [
+    "Il controllo automatico degli aggiornamenti ora è collegato al sito ufficiale di ToxPro.",
+    "Se esce una nuova versione compare il pulsante Aggiornamento accanto alle Impostazioni."
+  ]
+}
