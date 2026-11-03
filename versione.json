@@ -1,13 +1,9 @@
 {
-  "versione": "1.4",
+  "versione": "1.5",
   "data": "03/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Riepilogo prima di creare i referti: numero di pazienti, aziende, positività e avvisi (campi mancanti, doppioni).",
-    "Nuovo pulsante «Apri cartella referti».",
-    "Nome dei file personalizzabile: Impostazioni > Nome dei file.",
-    "Ricerca nella tabella (Ctrl+F) e annullamento delle modifiche con Ctrl+Z.",
-    "Aggiornamento automatico: il pulsante «Installa l'aggiornamento» scarica e sostituisce il programma, senza passare dal browser."
+    "Finestra Impostazioni: icone accanto ai pulsanti e nuovo ordine (Nome dei file, Aggiornamenti, Password)."
   ],
-  "sha256": "620a5b9d2f3c4f3c7d6c295b66b8ab08a536a547e9430333da43eb4118fef934"
+  "sha256": "b3de1a95757a4844419bae1af02d109985ab0059970c8b9f373bc67f878f95b0"
 }
