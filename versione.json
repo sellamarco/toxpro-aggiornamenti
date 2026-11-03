@@ -3,6 +3,6 @@
   "data": "03/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Nuova foto standard del test nel referto: mostra solo la cassetta Drug-Screen, senza fazzoletto e sfondo."
+    "Nuova foto standard del test nel referto: mostra solo la cassetta Drug-Screen, è stato rimosso lo sfondo."
   ]
 }
