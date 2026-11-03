@@ -1,8 +1,13 @@
 {
-  "versione": "1.3",
+  "versione": "1.4",
   "data": "03/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Nuova foto standard del test nel referto: mostra solo la cassetta Drug-Screen, è stato rimosso lo sfondo."
-  ]
+    "Riepilogo prima di creare i referti: numero di pazienti, aziende, positività e avvisi (campi mancanti, doppioni).",
+    "Nuovo pulsante «Apri cartella referti».",
+    "Nome dei file personalizzabile: Impostazioni > Nome dei file.",
+    "Ricerca nella tabella (Ctrl+F) e annullamento delle modifiche con Ctrl+Z.",
+    "Aggiornamento automatico: il pulsante «Installa l'aggiornamento» scarica e sostituisce il programma, senza passare dal browser."
+  ],
+  "sha256": "620a5b9d2f3c4f3c7d6c295b66b8ab08a536a547e9430333da43eb4118fef934"
 }
