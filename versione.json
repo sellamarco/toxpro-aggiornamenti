@@ -1,12 +1,10 @@
 {
-  "versione": "1.8",
+  "versione": "1.9",
   "data": "04/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Testi del referto personalizzabili (Impostazioni > Testi del referto): paragrafi di procedure e consenso per ogni lingua, così chi lavora in un altro paese inserisce il testo della propria normativa; nome del test (modello) modificabile.",
-    "Lingua del programma e dei referti: italiano, inglese, francese, tedesco (Impostazioni > Lingua).",
-    "In tabella, con il doppio clic su Azienda o Mansione il menu a tendina si apre subito (prima la freccia non si vedeva).",
-    "I menu azienda e mansione si usano anche con la tastiera: frecce su/giù per scegliere, Invio per confermare, Esc per chiudere. Scrivendo un testo libero il menu si chiude da solo."
+    "Nuova grafica in stile Windows 11: pulsanti e caselle con gli angoli arrotondati, colori neutri, tabella più ariosa.",
+    "Tema chiaro o scuro a scelta (Impostazioni > Tema); il cambio si applica al riavvio."
   ],
-  "sha256": "e7400b2b2067e04833629fd7526f571864ba5a6fbdae4c6c4cf909a913b6c1b6"
+  "sha256": "03e03ad857c34f2297b79377240db3d1e4736934f86f47b74b8eda9376adbdc9"
 }
