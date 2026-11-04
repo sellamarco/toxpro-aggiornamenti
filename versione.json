@@ -1,13 +1,12 @@
 {
-  "versione": "1.7",
+  "versione": "1.8",
   "data": "04/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Data di nascita: le barre si inseriscono da sole mentre si scrive (08011991 diventa 08/01/1991), sia in tabella sia nella schermata del nuovo paziente.",
-    "Il pulsante «Leggi DrugTest» è più grande, in grassetto e ben evidente.",
-    "Azienda: il programma ricorda i nomi delle aziende e li propone in un menu a tendina; ogni nome si toglie con la ×. Dei pazienti non resta nulla.",
-    "Mansione: menu a tendina con le mansioni predefinite (conducente patente C o superiore, carrello elevatore, mezzi aziendali, gas tossici) oppure testo libero.",
-    "Nella schermata del nuovo paziente il pulsante «Avanti: lettura del test» ora si chiama «Successivo»."
+    "Testi del referto personalizzabili (Impostazioni > Testi del referto): paragrafi di procedure e consenso per ogni lingua, così chi lavora in un altro paese inserisce il testo della propria normativa; nome del test (modello) modificabile.",
+    "Lingua del programma e dei referti: italiano, inglese, francese, tedesco (Impostazioni > Lingua).",
+    "In tabella, con il doppio clic su Azienda o Mansione il menu a tendina si apre subito (prima la freccia non si vedeva).",
+    "I menu azienda e mansione si usano anche con la tastiera: frecce su/giù per scegliere, Invio per confermare, Esc per chiudere. Scrivendo un testo libero il menu si chiude da solo."
   ],
-  "sha256": "98324a68cf99ad1665ad457f78e20c1ab26eae7be16f5439479f7960649b23bf"
+  "sha256": "e7400b2b2067e04833629fd7526f571864ba5a6fbdae4c6c4cf909a913b6c1b6"
 }
