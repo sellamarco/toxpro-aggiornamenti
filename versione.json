@@ -1,10 +1,12 @@
 {
-  "versione": "1.9",
+  "versione": "1.10",
   "data": "04/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Nuova grafica in stile Windows 11: pulsanti e caselle con gli angoli arrotondati, colori neutri, tabella più ariosa.",
-    "Tema chiaro o scuro a scelta (Impostazioni > Tema); il cambio si applica al riavvio."
+    "Pulsanti un po' meno alti.",
+    "Accanto alla ricerca c'è un pulsante rosso con la X per svuotare la ricerca, ben visibile.",
+    "La finestra delle note di versione è più contenuta e si scorre con la rotellina del mouse o con la barra.",
+    "Corretto: scrivendo dentro una cella della tabella il testo non si vedeva fino a quando si premeva Tab."
   ],
-  "sha256": "03e03ad857c34f2297b79377240db3d1e4736934f86f47b74b8eda9376adbdc9"
+  "sha256": "381699462a2cd04021aefb6324487306b4cd651f0f69de7e221a4ccd619a5ab5"
 }
