@@ -1,11 +1,9 @@
 {
-  "versione": "1.11",
+  "versione": "1.12",
   "data": "04/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Colonna Genera: il «Sì» è in verde pastello e il «No» in rosso pastello, entrambi in grassetto.",
-    "Il pulsante «Leggi DrugTest» apre sempre la schermata per inserire un paziente nuovo, anche se in tabella c'è una riga selezionata. Per leggere il test di un paziente già in elenco: tasto destro sulla riga > Leggi DrugTest.",
-    "Corretto: scrivendo nelle colonne Azienda e Mansione della tabella il testo non si vedeva; ora si vede subito, come nelle altre colonne."
+    "Si può trascinare il PDF dell'agenda direttamente sulla finestra di ToxPro (oltre al pulsante «Apri»). Se in tabella ci sono già dei pazienti, i nuovi si aggiungono; i file che non sono PDF vengono ignorati."
   ],
-  "sha256": "c75a0f1f4dbea031a901d9c009528314d6e11c6aaec42bf959e48d0da8f595fc"
+  "sha256": "64486d0902b87631a7c006fda7c18624bc1781122a1bfd7f46a59a2a8a3c55ab"
 }
