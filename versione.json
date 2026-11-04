@@ -1,12 +1,11 @@
 {
-  "versione": "1.10",
+  "versione": "1.11",
   "data": "04/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Pulsanti un po' meno alti.",
-    "Accanto alla ricerca c'è un pulsante rosso con la X per svuotare la ricerca, ben visibile.",
-    "La finestra delle note di versione è più contenuta e si scorre con la rotellina del mouse o con la barra.",
-    "Corretto: scrivendo dentro una cella della tabella il testo non si vedeva fino a quando si premeva Tab."
+    "Colonna Genera: il «Sì» è in verde pastello e il «No» in rosso pastello, entrambi in grassetto.",
+    "Il pulsante «Leggi DrugTest» apre sempre la schermata per inserire un paziente nuovo, anche se in tabella c'è una riga selezionata. Per leggere il test di un paziente già in elenco: tasto destro sulla riga > Leggi DrugTest.",
+    "Corretto: scrivendo nelle colonne Azienda e Mansione della tabella il testo non si vedeva; ora si vede subito, come nelle altre colonne."
   ],
-  "sha256": "381699462a2cd04021aefb6324487306b4cd651f0f69de7e221a4ccd619a5ab5"
+  "sha256": "c75a0f1f4dbea031a901d9c009528314d6e11c6aaec42bf959e48d0da8f595fc"
 }
