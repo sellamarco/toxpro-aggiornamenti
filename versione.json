@@ -1,9 +1,9 @@
 {
-  "versione": "1.12",
+  "versione": "1.13",
   "data": "04/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Si può trascinare il PDF dell'agenda direttamente sulla finestra di ToxPro (oltre al pulsante «Apri»). Se in tabella ci sono già dei pazienti, i nuovi si aggiungono; i file che non sono PDF vengono ignorati."
+    "Tema scuro: le icone (salva, stampa, nome dei file, lucchetto, calendario) ora si vedono bene, con i dettagli interni, invece di apparire come sagome bianche."
   ],
-  "sha256": "64486d0902b87631a7c006fda7c18624bc1781122a1bfd7f46a59a2a8a3c55ab"
+  "sha256": "2b2b435b6b27d0d337b2b2fca51dcf27fde554511c33bfbbbe4f280da92404db"
 }
