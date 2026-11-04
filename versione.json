@@ -1,9 +1,13 @@
 {
-  "versione": "1.5",
-  "data": "03/11/2026",
+  "versione": "1.6",
+  "data": "04/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Finestra Impostazioni: icone accanto ai pulsanti e nuovo ordine (Nome dei file, Aggiornamenti, Password)."
+    "Lettura automatica del drug test: dalla foto il programma riconosce le linee di controllo e le righe delle sostanze (colorata = negativo, non colorata = positivo), mostra i riquadri sulla foto e precompila le caselle. Si possono sempre correggere a mano.",
+    "Il test viene segnalato come NON VALIDO se manca una linea di controllo.",
+    "Leggi DrugTest: se non c'è un paziente selezionato si apre una schermata per inserirne i dati (Genera = Sì) e poi si passa alla lettura del test.",
+    "Il pulsante «Leggi DrugTest» è stato spostato sopra «Apri uno o più elenchi».",
+    "Si apre solo il PDF dell'agenda generato con CartSan: tolti Excel e CSV."
   ],
-  "sha256": "b3de1a95757a4844419bae1af02d109985ab0059970c8b9f373bc67f878f95b0"
+  "sha256": "05494908c033945d52b6cb78b713c1fe84aa2c52a346546a4f6943e6d30a494d"
 }
