@@ -1,9 +1,9 @@
 {
-  "versione": "1.14",
-  "data": "06/11/2026",
+  "versione": "1.16",
+  "data": "09/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Tema chiaro di nuovo azzurrino; tema scuro in un grigio più morbido e meno a contrasto. In Impostazioni > Tema c'è la nuova scelta «Come Windows», che segue il tema chiaro o scuro delle app di Windows (si applica al riavvio)."
+    "Nuovo pulsante «Usa lo smartphone»: mostra un codice QR da inquadrare con il telefono (stessa rete Wi-Fi del computer). Dal telefono si inseriscono i dati anagrafici del paziente, si scatta la foto del test, si vede la lettura automatica (correggibile) e si preme «Invia al computer»: il paziente compare in tabella con foto e risultato, da controllare e confermare dal computer. Dal telefono si può anche scegliere un paziente già presente in tabella (scheda «Dalla tabella») e associargli la lettura. Non serve installare nulla sul telefono."
   ],
-  "sha256": "dff1f8c3046cee172223c10e5f389210c7a5465848eb8072f6e25083644141e1"
+  "sha256": "c375ed20b9db941e8cfac5d6b08f5b64883c0e5a183a6ff7d18814e48720ee9d"
 }
