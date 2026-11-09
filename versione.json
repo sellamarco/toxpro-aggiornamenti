@@ -1,9 +1,9 @@
 {
-  "versione": "1.13",
-  "data": "04/11/2026",
+  "versione": "1.14",
+  "data": "06/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Tema scuro: le icone (salva, stampa, nome dei file, lucchetto, calendario) ora si vedono bene, con i dettagli interni, invece di apparire come sagome bianche."
+    "Tema chiaro di nuovo azzurrino; tema scuro in un grigio più morbido e meno a contrasto. In Impostazioni > Tema c'è la nuova scelta «Come Windows», che segue il tema chiaro o scuro delle app di Windows (si applica al riavvio)."
   ],
-  "sha256": "2b2b435b6b27d0d337b2b2fca51dcf27fde554511c33bfbbbe4f280da92404db"
+  "sha256": "dff1f8c3046cee172223c10e5f389210c7a5465848eb8072f6e25083644141e1"
 }
