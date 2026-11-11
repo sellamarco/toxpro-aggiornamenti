@@ -1,9 +1,9 @@
 {
-  "versione": "1.19",
-  "data": "10/11/2026",
+  "versione": "1.20",
+  "data": "11/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Firma con lo smartphone: con il tasto destro su un paziente in tabella c'è la nuova voce «Firma con lo smartphone...», che mostra un codice QR per far firmare il paziente sul touchscreen di telefono o tablet. La firma arriva in tabella e finisce nel referto. La firma si può raccogliere anche dalla lettura da telefono (passo «Firma del paziente», prima di «Invia al computer») e dalla scheda «Dalla tabella», senza rifare la foto."
+    "Nuova icona e nuovo logo del programma: una foglia con pillole, compresse e siringa su sfondo azzurro."
   ],
-  "sha256": "1f7d92dcfa3367036c326d4450fab6180f6c4f307b2980e5d1c960bf51fe8608"
+  "sha256": "49251f0f037c63f31f2e67b9c693701ddc18524fbab8deaef509f3508a1b156b"
 }
