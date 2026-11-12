@@ -1,9 +1,9 @@
 {
-  "versione": "1.20",
-  "data": "11/11/2026",
+  "versione": "1.21",
+  "data": "12/11/2026",
   "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/latest/download/ToxPro.exe",
   "note": [
-    "Nuova icona e nuovo logo del programma: una foglia con pillole, compresse e siringa su sfondo azzurro."
+    "Tabella: con Tab nell'ultima cella dell'ultima riga si apre ora una nuova riga e si continua a scrivere (se la riga non è vuota). Con Maiusc+Tab nella prima cella si resta nella cella, invece di uscire dalla modifica. Spostamento con Tab e Maiusc+Tab reso più affidabile, anche da cognome a nome."
   ],
-  "sha256": "49251f0f037c63f31f2e67b9c693701ddc18524fbab8deaef509f3508a1b156b"
+  "sha256": "8d1a092f69bffbcbb22dd9747a150e68877005119ac87b5655e1ba550a21123a"
 }
