@@ -1,12 +1,12 @@
 {
-  "versione": "2.1",
+  "versione": "2.2",
   "data": "12/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.1/ToxPro_Setup_2.1.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.1/ToxPro_Setup_2.1.exe",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.2/ToxPro_Setup_2.2.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.2/ToxPro_Setup_2.2.exe",
   "note": [
-    "Nuova icona e nuovo marchio del programma: uno scudo con referto e segno di spunta, su fondo blu scuro, e la scritta «ToxPro» a due colori in alto nella finestra. La nuova icona compare anche sul desktop, nella barra delle applicazioni e nel programma di installazione."
+    "Licenza: niente più giorni di tolleranza. 30 giorni prima della scadenza compare sempre l'avviso; dal giorno dopo la scadenza non si possono creare nuovi referti finché la licenza non viene rinnovata (tabella, lettura dei test e impostazioni continuano a funzionare). Dopo il rinnovo il programma si sblocca da solo entro qualche ora, oppure subito con «Controlla ora» in Impostazioni > Licenza."
   ],
-  "sha256_installer": "1579128700c0b80ed45a69a39e474885abb1e328515ece6db6cb67954cd5c362",
-  "sha256": "1579128700c0b80ed45a69a39e474885abb1e328515ece6db6cb67954cd5c362",
-  "firma": "AVlObAY8kyT7sd03/n7PyIqEwg+4KSzmL9V45EjqsNqrYzgJt6/Clhc+Xv3CE5potHbqYQzicwXdVhlwOANJCw=="
+  "sha256_installer": "2061ed7115142a69848341da68b662c00d3a3edca47a93c662c951c3989c2d91",
+  "sha256": "2061ed7115142a69848341da68b662c00d3a3edca47a93c662c951c3989c2d91",
+  "firma": "WqfWqxs2Ci05OW+QlvE0J7PukaLsC8P13XP5tGQKJGhEWig393C/4jEmTeZ+OC9+7ooKw/VPLKi+AUt+dASZDA=="
 }
