@@ -1,18 +1,12 @@
 {
-  "versione": "2.0",
+  "versione": "2.1",
   "data": "12/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.0/ToxPro_Setup_2.0.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.0/ToxPro_Setup_2.0.exe",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.1/ToxPro_Setup_2.1.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.1/ToxPro_Setup_2.1.exe",
   "note": [
-    "Licenza annuale: in Impostazioni > Licenza si scrive il codice di licenza e si preme \"Attiva\". Una licenza vale per un solo computer; per spostarla c'è \"Disattiva su questo computer\".",
-    "Prova gratuita di 6 giorni alla prima installazione.",
-    "La licenza si verifica online ogni 3 giorni (i rinnovi arrivano da soli) e il programma funziona fino a 15 giorni senza internet. Vengono inviati solo il codice di licenza, un'impronta anonima e il nome del computer: mai dati dei pazienti.",
-    "30 giorni prima della scadenza compare un avviso; dopo la scadenza ci sono 15 giorni di tolleranza, poi si bloccano solo i nuovi referti: tabella, lettura dei test, impostazioni e aggiornamenti continuano a funzionare.",
-    "Programma più protetto: compilato in codice macchina, con programma di installazione (scelta della cartella, collegamento sul desktop, disinstallazione) e aggiornamenti firmati digitalmente.",
-    "Referto rinnovato nell'aspetto, con gli stessi contenuti: titolo con barra laterale, sezioni con riquadri leggeri, tabella dei risultati con intestazione colorata e righe alterne, cornice attorno alla foto del test.",
-    "Dati di esempio: intestazione, logo e medico predefiniti sono ora fittizi (Poliambulatorio Esempio, Dott. Rossi Mario). Ogni studio inserisce i propri con «Modifica intestazione (logo e testo)...» e «Gestisci medici...»; finché restano quelli di esempio, all'avvio compare un promemoria."
+    "Nuova icona e nuovo marchio del programma: uno scudo con referto e segno di spunta, su fondo blu scuro, e la scritta «ToxPro» a due colori in alto nella finestra. La nuova icona compare anche sul desktop, nella barra delle applicazioni e nel programma di installazione."
   ],
-  "sha256_installer": "b0731e5a79a3a20a1a3fc69b1df7a05d7118165b3e451a76247f414f787a4b95",
-  "sha256": "b0731e5a79a3a20a1a3fc69b1df7a05d7118165b3e451a76247f414f787a4b95",
-  "firma": "EeRVv9fGSi0g9lGaitYzn8svZq4OLj3aBlu3VQNJf2FlOJUIvrd+m1Fi4IOeojX3LAfXLb6HQIvqf+tg8cj2Dw=="
+  "sha256_installer": "1579128700c0b80ed45a69a39e474885abb1e328515ece6db6cb67954cd5c362",
+  "sha256": "1579128700c0b80ed45a69a39e474885abb1e328515ece6db6cb67954cd5c362",
+  "firma": "AVlObAY8kyT7sd03/n7PyIqEwg+4KSzmL9V45EjqsNqrYzgJt6/Clhc+Xv3CE5potHbqYQzicwXdVhlwOANJCw=="
 }
