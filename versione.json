@@ -1,12 +1,12 @@
 {
-  "versione": "2.2",
-  "data": "12/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.2/ToxPro_Setup_2.2.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.2/ToxPro_Setup_2.2.exe",
+  "versione": "2.3",
+  "data": "16/11/2026",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.3/ToxPro_Setup_2.3.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.3/ToxPro_Setup_2.3.exe",
   "note": [
-    "Licenza: niente più giorni di tolleranza. 30 giorni prima della scadenza compare sempre l'avviso; dal giorno dopo la scadenza non si possono creare nuovi referti finché la licenza non viene rinnovata (tabella, lettura dei test e impostazioni continuano a funzionare). Dopo il rinnovo il programma si sblocca da solo entro qualche ora, oppure subito con «Controlla ora» in Impostazioni > Licenza."
+    "Modello del test a scelta: in Impostazioni > Testi del referto il modello del drug test si sceglie da un menu a tendina. Lettura automatica della foto, caselle delle sostanze, telefono e referto PDF (sostanze, cut-off, creatinina e pH) si adattano da soli al modello scelto. Per ora l'elenco contiene il Drug-Screen Multi 9RA; i nuovi modelli arriveranno con gli aggiornamenti, dopo essere stati provati e tarati."
   ],
-  "sha256_installer": "2061ed7115142a69848341da68b662c00d3a3edca47a93c662c951c3989c2d91",
-  "sha256": "2061ed7115142a69848341da68b662c00d3a3edca47a93c662c951c3989c2d91",
-  "firma": "WqfWqxs2Ci05OW+QlvE0J7PukaLsC8P13XP5tGQKJGhEWig393C/4jEmTeZ+OC9+7ooKw/VPLKi+AUt+dASZDA=="
+  "sha256_installer": "52289dc9ee48e1ba9ed99e9d8ef730aca99f00bb94b0672ad83d52991114a110",
+  "sha256": "52289dc9ee48e1ba9ed99e9d8ef730aca99f00bb94b0672ad83d52991114a110",
+  "firma": "hRZuinq1/SHI3Qlp75ugqO4gnN8QVfRH213VCJMr/LjfCPJQVGqQ1KhXGioXbYr1ZNdzFhyD4QUCo6Z4HiJeAA=="
 }
