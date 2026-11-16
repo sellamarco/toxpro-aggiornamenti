@@ -1,12 +1,12 @@
 {
-  "versione": "2.3",
+  "versione": "2.4",
   "data": "16/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.3/ToxPro_Setup_2.3.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.3/ToxPro_Setup_2.3.exe",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.4/ToxPro_Setup_2.4.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.4/ToxPro_Setup_2.4.exe",
   "note": [
-    "Modello del test a scelta: in Impostazioni > Testi del referto il modello del drug test si sceglie da un menu a tendina. Lettura automatica della foto, caselle delle sostanze, telefono e referto PDF (sostanze, cut-off, creatinina e pH) si adattano da soli al modello scelto. Per ora l'elenco contiene il Drug-Screen Multi 9RA; i nuovi modelli arriveranno con gli aggiornamenti, dopo essere stati provati e tarati."
+    "La scelta del modello del test è stata spostata: ora è un menu a tendina direttamente in Impostazioni, sotto il tema chiaro/scuro (non più dentro «Testi del referto»). La scelta vale subito, senza premere Salva."
   ],
-  "sha256_installer": "52289dc9ee48e1ba9ed99e9d8ef730aca99f00bb94b0672ad83d52991114a110",
-  "sha256": "52289dc9ee48e1ba9ed99e9d8ef730aca99f00bb94b0672ad83d52991114a110",
-  "firma": "hRZuinq1/SHI3Qlp75ugqO4gnN8QVfRH213VCJMr/LjfCPJQVGqQ1KhXGioXbYr1ZNdzFhyD4QUCo6Z4HiJeAA=="
+  "sha256_installer": "17eae19076a145e586da3e7fbecb693e811444378c4a90a9e6a983067f0903e9",
+  "sha256": "17eae19076a145e586da3e7fbecb693e811444378c4a90a9e6a983067f0903e9",
+  "firma": "9/S7e/o9LgkPLw9sYTVqtEvLukRzFxYh6sbgC6tMwNHWgGwCiuXcjXmt+JaC2h/bLzdJlpCpHlzaFOj+asL/Dg=="
 }
