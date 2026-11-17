@@ -1,12 +1,12 @@
 {
-  "versione": "2.4",
-  "data": "16/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.4/ToxPro_Setup_2.4.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.4/ToxPro_Setup_2.4.exe",
+  "versione": "2.5",
+  "data": "17/11/2026",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.5/ToxPro_Setup_2.5.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.5/ToxPro_Setup_2.5.exe",
   "note": [
-    "La scelta del modello del test è stata spostata: ora è un menu a tendina direttamente in Impostazioni, sotto il tema chiaro/scuro (non più dentro «Testi del referto»). La scelta vale subito, senza premere Salva."
+    "Aggiornamento automatico più affidabile: il programma riconosce sempre di essere stato installato con l'installer (anche dal registro di Windows) e installa l'aggiornamento da solo, con la sola barra di avanzamento e senza le pagine «Avanti / Installa»; alla fine ToxPro si riapre da solo."
   ],
-  "sha256_installer": "17eae19076a145e586da3e7fbecb693e811444378c4a90a9e6a983067f0903e9",
-  "sha256": "17eae19076a145e586da3e7fbecb693e811444378c4a90a9e6a983067f0903e9",
-  "firma": "9/S7e/o9LgkPLw9sYTVqtEvLukRzFxYh6sbgC6tMwNHWgGwCiuXcjXmt+JaC2h/bLzdJlpCpHlzaFOj+asL/Dg=="
+  "sha256_installer": "ab4eec1d0d2aedd1fea33a02b5623b461dd2af7067589c4c3aaab4d048baaa4a",
+  "sha256": "ab4eec1d0d2aedd1fea33a02b5623b461dd2af7067589c4c3aaab4d048baaa4a",
+  "firma": "wXfqWy6M/z73kAJPtnNB/Y43l/MS+ChT8wHNzxJszHi8XD9ypWHzQX7TlK0lz+octQ2as22a9OQ06gIyw4isBg=="
 }
