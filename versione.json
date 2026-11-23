@@ -1,17 +1,17 @@
 {
-  "versione": "2.7",
+  "versione": "2.8",
   "data": "23/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.7/ToxPro_Setup_2.7.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.7/ToxPro_Setup_2.7.exe",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.8/ToxPro_Setup_2.8.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.8/ToxPro_Setup_2.8.exe",
   "note": [
-    "Nuovo nome dello sviluppatore: Egida Software. Compare in piccolo sotto il nome ToxPro («di Egida Software»), nella pagina Info, nel programma di installazione e nel contratto di licenza. I contatti dell'assistenza diventano Egida Software, con il nuovo indirizzo email.",
-    "Riepilogo d'uso: ToxPro conta i referti creati (lo stesso lavoratore nello stesso giorno una volta sola) e, insieme ai controlli della licenza, invia SOLO questo numero al servizio delle licenze: mai nomi, contenuti dei referti o dati dei pazienti. Senza internet il numero si accumula e parte al collegamento successivo. Il contratto di licenza (punto 3.1) è aggiornato di conseguenza."
+    "Il numero di referti creati per il riepilogo d'uso parte circa mezzo minuto dopo la creazione dei referti (prima partiva solo all'avvio del programma e ogni 6 ore).",
+    "Nomi dei pulsanti più chiari: «Apri uno o più elenchi (PDF agenda)» diventa «Importa uno o più file» e «Scrivici» diventa «Contattaci»."
   ],
   "assistenza": {
     "distributore": "Egida Software",
     "email": "egidasoftware@gmail.com"
   },
-  "sha256_installer": "391ebe762d20b5e8c9e135e47969b340df6773f71beb5f1ea9cdf552d52838ea",
-  "sha256": "391ebe762d20b5e8c9e135e47969b340df6773f71beb5f1ea9cdf552d52838ea",
-  "firma": "bxgtHVDLHeq4mtVd2srmM9V2+PKcZdofzwBv+jV8KIbxmZoym+mxnUs6OCTAszSKG1XWGF+TkdR5eT60356bAQ=="
+  "sha256_installer": "31d664fea76f0627f5622a086eb066ac526134754916e360a5daeb4cd4e3c8b4",
+  "sha256": "31d664fea76f0627f5622a086eb066ac526134754916e360a5daeb4cd4e3c8b4",
+  "firma": "fbBhcRTcZTtVF3v6u3PXqbjAzu3eiCMOvbeFsjMQgJ8IrArFpAkDKmDEv0Y7STVgMOjY2u4lrFGvUxTEEhsKBA=="
 }
