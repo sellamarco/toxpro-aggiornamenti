@@ -1,12 +1,22 @@
 {
-  "versione": "2.5",
-  "data": "17/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.5/ToxPro_Setup_2.5.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.5/ToxPro_Setup_2.5.exe",
+  "versione": "2.6",
+  "data": "22/11/2026",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.6/ToxPro_Setup_2.6.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.6/ToxPro_Setup_2.6.exe",
   "note": [
-    "Aggiornamento automatico più affidabile: il programma riconosce sempre di essere stato installato con l'installer (anche dal registro di Windows) e installa l'aggiornamento da solo, con la sola barra di avanzamento e senza le pagine «Avanti / Installa»; alla fine ToxPro si riapre da solo."
+    "Nuovo Magazzino DrugTest: inserisci quanti test hai in studio e ToxPro ne scala uno a ogni referto creato (lo stesso lavoratore nello stesso giorno conta una sola volta). Il numero si corregge in ogni momento con il conteggio reale. Sotto la soglia scelta il pulsante «Ordina DrugTest» diventa arancione, «Ordina ora», con la previsione dei giorni rimasti e un avviso una volta al giorno. L'ordine è un'email già pronta per il referente commerciale di zona (indirizzo da inserire in Impostazioni > Magazzino DrugTest), con la quantità suggerita per un mese; se manca il programma di posta il testo si copia con un clic.",
+    "Tutte le finestre del programma (Impostazioni, Licenza, lettura del test, ordini…) mostrano ora l'icona di ToxPro invece della penna con la piuma.",
+    "La lingua si sceglie ora da un menu a tendina con le bandierine (Impostazioni), invece dei quattro pulsanti.",
+    "La firma del paziente si raccoglie solo con lo smartphone: tolta la firma al computer e con tavoletta grafometrica (dal tasto destro spariscono «Genera e firma PDF…», «Rifai la firma…» e «Solo firma…»). Resta «Cancella la firma» per rifarla dal telefono.",
+    "Nuovo pulsante «Scrivici» accanto a Info: per segnalare un problema o suggerire un'idea si apre un'email già pronta per lo sviluppatore, con le informazioni tecniche (versione, Windows, licenza) e mai dati dei pazienti; se manca il programma di posta il testo si copia.",
+    "La pagina Info mostra i contatti dell'assistenza; distributore e indirizzo si possono aggiornare da remoto, senza installare una nuova versione (arrivano nel file firmato degli aggiornamenti).",
+    "Il Magazzino DrugTest tiene scorte, soglia e consumo separati per ogni prodotto: si sceglie il prodotto dal menu in Impostazioni > Magazzino DrugTest, e ogni referto scala il prodotto con cui è stato letto quel lavoratore. Anche l'ordine si fa per prodotto."
   ],
-  "sha256_installer": "ab4eec1d0d2aedd1fea33a02b5623b461dd2af7067589c4c3aaab4d048baaa4a",
-  "sha256": "ab4eec1d0d2aedd1fea33a02b5623b461dd2af7067589c4c3aaab4d048baaa4a",
-  "firma": "wXfqWy6M/z73kAJPtnNB/Y43l/MS+ChT8wHNzxJszHi8XD9ypWHzQX7TlK0lz+octQ2as22a9OQ06gIyw4isBg=="
+  "assistenza": {
+    "distributore": "Marco Sella",
+    "email": ""
+  },
+  "sha256_installer": "e9d1c0a73baf6bf875075cdc4c817641ec4550b1642a00fe0fcfee72d0fd7fe3",
+  "sha256": "e9d1c0a73baf6bf875075cdc4c817641ec4550b1642a00fe0fcfee72d0fd7fe3",
+  "firma": "+9FYs7mEDuQvwf62rhVq5iFb6sYRJQrjx7Z3CjyUU//83C4hnHjsZjD1q3fXD3pmz7YRZPMNxxCx3AUvjtNNCA=="
 }
