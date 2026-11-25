@@ -1,17 +1,18 @@
 {
-  "versione": "2.8",
-  "data": "23/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.8/ToxPro_Setup_2.8.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.8/ToxPro_Setup_2.8.exe",
+  "versione": "2.9",
+  "data": "24/11/2026",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.9/ToxPro_Setup_2.9.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.9/ToxPro_Setup_2.9.exe",
   "note": [
-    "Il numero di referti creati per il riepilogo d'uso parte circa mezzo minuto dopo la creazione dei referti (prima partiva solo all'avvio del programma e ogni 6 ore).",
-    "Nomi dei pulsanti più chiari: «Apri uno o più elenchi (PDF agenda)» diventa «Importa uno o più file» e «Scrivici» diventa «Contattaci»."
+    "Nuova configurazione guidata: al primo avvio una procedura passo passo aiuta a scegliere la lingua, inserire i dati e il logo dello studio, i medici con la firma, il DrugTest predefinito, il magazzino (facoltativo) e la licenza. Si può rifare in qualsiasi momento da Impostazioni > Configurazione guidata.",
+    "Al primo avvio la configurazione guidata si apre con la scritta «Benvenuto in ToxPro» che scorre, con una dissolvenza morbida, nelle lingue del programma. L'icona in alto nella finestra principale è ora lucida: un riflesso leggero e, ogni tanto, una luce che attraversa lo scudo e brilla sull'angolino.",
+    "La scritta di benvenuto usa il carattere Inter Display, incluso nel programma (licenza libera SIL OFL, testo in assets/OFL-Inter.txt)."
   ],
   "assistenza": {
     "distributore": "Egida Software",
     "email": "egidasoftware@gmail.com"
   },
-  "sha256_installer": "31d664fea76f0627f5622a086eb066ac526134754916e360a5daeb4cd4e3c8b4",
-  "sha256": "31d664fea76f0627f5622a086eb066ac526134754916e360a5daeb4cd4e3c8b4",
-  "firma": "fbBhcRTcZTtVF3v6u3PXqbjAzu3eiCMOvbeFsjMQgJ8IrArFpAkDKmDEv0Y7STVgMOjY2u4lrFGvUxTEEhsKBA=="
+  "sha256_installer": "f4b19fea211748fa75d38cf2d8ce969b9968277dc97376236f72454bd1eeecd2",
+  "sha256": "f4b19fea211748fa75d38cf2d8ce969b9968277dc97376236f72454bd1eeecd2",
+  "firma": "JBCSgPLvmXDznVB9oYVf/o+cxs1WDkT49PUPfko6yKSj6Zr/ijWc+rVDtcUA8uOp8VkaZrOGABhvWY2s0M9rBA=="
 }
