@@ -1,16 +1,18 @@
 {
-  "versione": "2.11",
+  "versione": "2.12",
   "data": "25/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.11/ToxPro_Setup_2.11.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.11/ToxPro_Setup_2.11.exe",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.12/ToxPro_Setup_2.12.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.12/ToxPro_Setup_2.12.exe",
   "note": [
-    "Finestra Impostazioni riorganizzata e più compatta: a sinistra quattro sezioni (Generale, Referti, Dati, Programma), a destra il loro contenuto. In Generale restano lingua, tema e modello del test (con lotto e scadenza); ogni pulsante ha la sua icona e accanto una breve spiegazione. La finestra si riapre sull'ultima sezione usata e si chiude anche con il tasto Esc."
+    "Finestra principale: all'avvio si apre sempre a schermo intero. Se la finestra viene ridotta, le righe di pulsanti vanno a capo invece di tagliarsi: nessun pulsante o scritta resta nascosto (ad esempio «Apri cartella referti», «Contattaci» e «Info» scendono sotto «Crea referti»).",
+    "Il pulsante «Salva il lavoro» diventa un pulsante compatto «Salva» con l'icona del dischetto, in alto a destra accanto a «Referti da creare».",
+    "Il pulsante accanto al campo dell'ora (in tabella e in «Leggi DrugTest») mostra ora l'icona dell'orologio, che prima in Windows non compariva."
   ],
   "assistenza": {
     "distributore": "Egida Software",
     "email": "egidasoftware@gmail.com"
   },
-  "sha256_installer": "95ff57af11c76f8f37c9f8229db9fd1549f88c00003488351e370065dbb7c94f",
-  "sha256": "95ff57af11c76f8f37c9f8229db9fd1549f88c00003488351e370065dbb7c94f",
-  "firma": "ZwVnYrfFUujkBoWiU1gH0qcLjWgsoA7sJC99bq36gd5JgPjTpZnbRoNmkf4ierzI8T2hKFckEGNdPAFS04ZhBQ=="
+  "sha256_installer": "f65ecb7cb8bd3360c5b420a51747166c73469846b7f7c2d8e0ab28e1ba379c02",
+  "sha256": "f65ecb7cb8bd3360c5b420a51747166c73469846b7f7c2d8e0ab28e1ba379c02",
+  "firma": "R8bvGikpZb+5Ds1Vc7KQONuREs4NTn9qdoI0xZh/6W3ZTYzPVXif09zVGgp8ZFelPtKaoGtYpdjtIa/ebfAWDQ=="
 }
