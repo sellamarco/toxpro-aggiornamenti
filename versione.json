@@ -1,18 +1,21 @@
 {
-  "versione": "2.9",
-  "data": "24/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.9/ToxPro_Setup_2.9.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.9/ToxPro_Setup_2.9.exe",
+  "versione": "2.10",
+  "data": "25/11/2026",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.10/ToxPro_Setup_2.10.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.10/ToxPro_Setup_2.10.exe",
   "note": [
-    "Nuova configurazione guidata: al primo avvio una procedura passo passo aiuta a scegliere la lingua, inserire i dati e il logo dello studio, i medici con la firma, il DrugTest predefinito, il magazzino (facoltativo) e la licenza. Si può rifare in qualsiasi momento da Impostazioni > Configurazione guidata.",
-    "Al primo avvio la configurazione guidata si apre con la scritta «Benvenuto in ToxPro» che scorre, con una dissolvenza morbida, nelle lingue del programma. L'icona in alto nella finestra principale è ora lucida: un riflesso leggero e, ogni tanto, una luce che attraversa lo scudo e brilla sull'angolino.",
-    "La scritta di benvenuto usa il carattere Inter Display, incluso nel programma (licenza libera SIL OFL, testo in assets/OFL-Inter.txt)."
+    "Nuovo archivio dei lavoratori: ToxPro ricorda cognome, nome e data di nascita di chi ha fatto il test (niente risultati, foto o firme), così quando un lavoratore torna la data di nascita si compila da sola, nella tabella e in «Leggi DrugTest». I dati restano solo su questo computer, cifrati, e non vengono mai inviati; si conservano 12 mesi dall'ultimo referto (oppure 6 o 24, o niente archivio) e poi si cancellano da soli. Si sceglie in Impostazioni > Archivio lavoratori e nella configurazione guidata.",
+    "Mentre si scrive il cognome compare l'elenco dei lavoratori in archivio che iniziano così, con nome e data di nascita: con un clic (o frecce e Invio) cognome, nome e data di nascita si compilano da soli, in «Leggi DrugTest» e nella tabella.",
+    "Impostazioni > Modello del test: accanto al modello si possono scrivere lotto e scadenza del prodotto in uso; se compilati compaiono sul referto accanto al nome del test (avviso se il prodotto è scaduto).",
+    "Nuova colonna «Ora» in tabella: l'ora dell'accertamento si scrive a mano o con il pulsante dell'orologio (ora attuale); anche dal tasto destro e in «Leggi DrugTest». Se c'è, si stampa sul referto accanto alla data.",
+    "Salvataggio automatico del lavoro ogni 30 secondi (tabella, letture dei test e firme, cifrati su questo computer) e pulsante «Salva il lavoro». Se il computer si blocca, alla riapertura ToxPro propone di riprendere da dove eri rimasto. In Impostazioni > Lavori salvati si riaprono, si cancellano o si svuotano tutti.",
+    "Nuovo contratto di licenza e termini di servizio (EULA) nell'installazione, con sezione privacy: va accettato per installare. L'ora dell'accertamento si segna da sola alla lettura del test, se non è già stata scritta."
   ],
   "assistenza": {
     "distributore": "Egida Software",
     "email": "egidasoftware@gmail.com"
   },
-  "sha256_installer": "f4b19fea211748fa75d38cf2d8ce969b9968277dc97376236f72454bd1eeecd2",
-  "sha256": "f4b19fea211748fa75d38cf2d8ce969b9968277dc97376236f72454bd1eeecd2",
-  "firma": "JBCSgPLvmXDznVB9oYVf/o+cxs1WDkT49PUPfko6yKSj6Zr/ijWc+rVDtcUA8uOp8VkaZrOGABhvWY2s0M9rBA=="
+  "sha256_installer": "91b64a692bbab1931ea643352a098ef0423e107c07e0f74c6555f76da467ddf3",
+  "sha256": "91b64a692bbab1931ea643352a098ef0423e107c07e0f74c6555f76da467ddf3",
+  "firma": "K3MkLWdCuwRsLnb4xvjmSYMjbe+liLpmNMtzZitfB8KhJTnKcgBMf6yRNSk9KhT0whAok2DMHs0URgHyqXIJCA=="
 }
