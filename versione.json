@@ -1,18 +1,16 @@
 {
-  "versione": "2.12",
+  "versione": "2.15",
   "data": "25/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.12/ToxPro_Setup_2.12.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.12/ToxPro_Setup_2.12.exe",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.15/ToxPro_Setup_2.15.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.15/ToxPro_Setup_2.15.exe",
   "note": [
-    "Finestra principale: all'avvio si apre sempre a schermo intero. Se la finestra viene ridotta, le righe di pulsanti vanno a capo invece di tagliarsi: nessun pulsante o scritta resta nascosto (ad esempio «Apri cartella referti», «Contattaci» e «Info» scendono sotto «Crea referti»).",
-    "Il pulsante «Salva il lavoro» diventa un pulsante compatto «Salva» con l'icona del dischetto, in alto a destra accanto a «Referti da creare».",
-    "Il pulsante accanto al campo dell'ora (in tabella e in «Leggi DrugTest») mostra ora l'icona dell'orologio, che prima in Windows non compariva."
+    "Licenza: l'avviso «la licenza scade il…» ora compare negli ultimi 15 giorni prima della scadenza (prima erano 30). Così anche con le licenze di prova di un mese l'avviso non esce fin dal primo giorno."
   ],
   "assistenza": {
     "distributore": "Egida Software",
     "email": "egidasoftware@gmail.com"
   },
-  "sha256_installer": "f65ecb7cb8bd3360c5b420a51747166c73469846b7f7c2d8e0ab28e1ba379c02",
-  "sha256": "f65ecb7cb8bd3360c5b420a51747166c73469846b7f7c2d8e0ab28e1ba379c02",
-  "firma": "R8bvGikpZb+5Ds1Vc7KQONuREs4NTn9qdoI0xZh/6W3ZTYzPVXif09zVGgp8ZFelPtKaoGtYpdjtIa/ebfAWDQ=="
+  "sha256_installer": "54d75d755b9aa7626558f6586236444445682d7f67afed9ec5f2a53e1b1629c9",
+  "sha256": "54d75d755b9aa7626558f6586236444445682d7f67afed9ec5f2a53e1b1629c9",
+  "firma": "SlS1nXPmzhHzJz1vuoEKGrfLbYGz5Kcbgwr2SEdAFAmr4Ns0uJberx0Xa6vAZz+i4LvamwG46YJRTnmoD4tZAA=="
 }
