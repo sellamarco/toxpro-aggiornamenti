@@ -1,16 +1,16 @@
 {
-  "versione": "2.15",
+  "versione": "2.16",
   "data": "25/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.15/ToxPro_Setup_2.15.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.15/ToxPro_Setup_2.15.exe",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.16/ToxPro_Setup_2.16.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.16/ToxPro_Setup_2.16.exe",
   "note": [
-    "Licenza: l'avviso «la licenza scade il…» ora compare negli ultimi 15 giorni prima della scadenza (prima erano 30). Così anche con le licenze di prova di un mese l'avviso non esce fin dal primo giorno."
+    "Finestra «Intestazione del referto»: i pulsanti SALVA, Annulla e Ripristina originale stanno in una barra fissa in basso e restano sempre visibili. L'anteprima del logo ha un'altezza fissa, così scegliendo un'immagine (anche quadrata o alta) la finestra non cambia più misura."
   ],
   "assistenza": {
     "distributore": "Egida Software",
     "email": "egidasoftware@gmail.com"
   },
-  "sha256_installer": "54d75d755b9aa7626558f6586236444445682d7f67afed9ec5f2a53e1b1629c9",
-  "sha256": "54d75d755b9aa7626558f6586236444445682d7f67afed9ec5f2a53e1b1629c9",
-  "firma": "SlS1nXPmzhHzJz1vuoEKGrfLbYGz5Kcbgwr2SEdAFAmr4Ns0uJberx0Xa6vAZz+i4LvamwG46YJRTnmoD4tZAA=="
+  "sha256_installer": "288ec5e37ba7f21573d4ba2f807fa3adf5620cb47d02f04afd6c4614681cd548",
+  "sha256": "288ec5e37ba7f21573d4ba2f807fa3adf5620cb47d02f04afd6c4614681cd548",
+  "firma": "08rg+/tmM5G4gJ4QlzqUyw/CICOMDyLk/EsRmuu0IM/QomONHogXQH4gfeMl7+gkJAlUlmJKwspvnI2NmkeYCQ=="
 }
