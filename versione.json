@@ -1,21 +1,16 @@
 {
-  "versione": "2.10",
+  "versione": "2.11",
   "data": "25/11/2026",
-  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.10/ToxPro_Setup_2.10.exe",
-  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.10/ToxPro_Setup_2.10.exe",
+  "installer": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.11/ToxPro_Setup_2.11.exe",
+  "scarica": "https://github.com/sellamarco/toxpro-aggiornamenti/releases/download/v2.11/ToxPro_Setup_2.11.exe",
   "note": [
-    "Nuovo archivio dei lavoratori: ToxPro ricorda cognome, nome e data di nascita di chi ha fatto il test (niente risultati, foto o firme), così quando un lavoratore torna la data di nascita si compila da sola, nella tabella e in «Leggi DrugTest». I dati restano solo su questo computer, cifrati, e non vengono mai inviati; si conservano 12 mesi dall'ultimo referto (oppure 6 o 24, o niente archivio) e poi si cancellano da soli. Si sceglie in Impostazioni > Archivio lavoratori e nella configurazione guidata.",
-    "Mentre si scrive il cognome compare l'elenco dei lavoratori in archivio che iniziano così, con nome e data di nascita: con un clic (o frecce e Invio) cognome, nome e data di nascita si compilano da soli, in «Leggi DrugTest» e nella tabella.",
-    "Impostazioni > Modello del test: accanto al modello si possono scrivere lotto e scadenza del prodotto in uso; se compilati compaiono sul referto accanto al nome del test (avviso se il prodotto è scaduto).",
-    "Nuova colonna «Ora» in tabella: l'ora dell'accertamento si scrive a mano o con il pulsante dell'orologio (ora attuale); anche dal tasto destro e in «Leggi DrugTest». Se c'è, si stampa sul referto accanto alla data.",
-    "Salvataggio automatico del lavoro ogni 30 secondi (tabella, letture dei test e firme, cifrati su questo computer) e pulsante «Salva il lavoro». Se il computer si blocca, alla riapertura ToxPro propone di riprendere da dove eri rimasto. In Impostazioni > Lavori salvati si riaprono, si cancellano o si svuotano tutti.",
-    "Nuovo contratto di licenza e termini di servizio (EULA) nell'installazione, con sezione privacy: va accettato per installare. L'ora dell'accertamento si segna da sola alla lettura del test, se non è già stata scritta."
+    "Finestra Impostazioni riorganizzata e più compatta: a sinistra quattro sezioni (Generale, Referti, Dati, Programma), a destra il loro contenuto. In Generale restano lingua, tema e modello del test (con lotto e scadenza); ogni pulsante ha la sua icona e accanto una breve spiegazione. La finestra si riapre sull'ultima sezione usata e si chiude anche con il tasto Esc."
   ],
   "assistenza": {
     "distributore": "Egida Software",
     "email": "egidasoftware@gmail.com"
   },
-  "sha256_installer": "91b64a692bbab1931ea643352a098ef0423e107c07e0f74c6555f76da467ddf3",
-  "sha256": "91b64a692bbab1931ea643352a098ef0423e107c07e0f74c6555f76da467ddf3",
-  "firma": "K3MkLWdCuwRsLnb4xvjmSYMjbe+liLpmNMtzZitfB8KhJTnKcgBMf6yRNSk9KhT0whAok2DMHs0URgHyqXIJCA=="
+  "sha256_installer": "95ff57af11c76f8f37c9f8229db9fd1549f88c00003488351e370065dbb7c94f",
+  "sha256": "95ff57af11c76f8f37c9f8229db9fd1549f88c00003488351e370065dbb7c94f",
+  "firma": "ZwVnYrfFUujkBoWiU1gH0qcLjWgsoA7sJC99bq36gd5JgPjTpZnbRoNmkf4ierzI8T2hKFckEGNdPAFS04ZhBQ=="
 }
